@@ -12,7 +12,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: aqua;
+  background-color: #fff;
 }
 p {
   position: relative;
@@ -36,4 +36,10 @@ p {
   100% {
     background-position: 500%;
   }
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
